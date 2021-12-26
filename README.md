@@ -1,8 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/?username=rush-tea&show_icons=true&count_private=true" alt="github stats"/>
-
-
-
-<a href="https://github.com/rush-tea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush-tea&layout=compact&count_private=true" /></a>
+<a href="https://github.com/rush-tea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rush-tea&count_private=true&show_icons=true&include_all_commits=true&theme=buefy" alt="Adarsh's github stats" /></a>
 
 
 <hr/>
